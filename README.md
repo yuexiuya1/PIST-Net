@@ -28,7 +28,7 @@ main
 └── ...
 ```
 
-The training data is compressed in data.tar.gz
+The training data is compressed in [data.tar.gz](https://drive.google.com/file/d/1frPUIh3F5jcylFoD-ifFsSm0o3F3YV_b/view?usp=sharing)
 
 To save storage space, the picture data for training is saved only in the file of the largest picture. Before you try training, run cutpic.py to generate additional images.
 
